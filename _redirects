@@ -1,0 +1,60 @@
+# redirects
+# source                                        target
+# old                                           new
+
+# /short                                       https://redirect.com 301!
+
+# Storage
+/bbm                                           https://birdeye.com/branson-bay-marina-llc-168373546012921/review-us?dashboard=1 301!
+
+/branson-b                                     https://birdeye.com/heartland-storage-branson-bee-creek-163364780591181/review-us?dashboard=1 301!
+/branson-f                                     https://birdeye.com/heartland-storage-branson-forsyth-163364779242193/review-us?dashboard=1 301!
+/branson-k                                     https://birdeye.com/heartland-storage-branson-kirbyville-163364779249791/review-us?dashboard=1 301!
+/branson-m                                     https://birdeye.com/heartland-storage-merriam-woods-163364779470191/review-us?dashboard=1 301!
+/branson-t                                     https://birdeye.com/heartland-storage-branson-t-hwy-163364779187649/review-us?dashboard=1 301!
+/branson-west                                  https://birdeye.com/heartland-storage-branson-west-163364779481144/review-us?dashboard=1 301!
+
+/lockwood                                      https://birdeye.com/heartland-storage-lockwood-miller-h-168331790077608/review-us?dashboard=1 301!
+/miller                                        https://birdeye.com/heartland-storage-lockwood-miller-e-168331788640483/review-us?dashboard=1 301!
+/mt-vernon-a                                   https://birdeye.com/heartland-storage-lawrence-county-a-168331783019239/review-us?dashboard=1 301!
+/mt-vernon-r                                   https://birdeye.com/heartland-storage-lawrence-county-r-168331784632624/review-us?dashboard=1 301!
+/verona-t                                      https://birdeye.com/heartland-storage-lawrence-county-t-168331787104977/review-us?dashboard=1 301!
+
+/ozark-a                                       https://birdeye.com/heartland-storage-ozark-a-s-11th-street-163364779703299/review-us?dashboard=1 301!
+/ozark-b                                       https://birdeye.com/heartland-storage-ozark-b-s-3rd-street-163364780810212/review-us?dashboard=1 301!
+/ozark-c                                       https://birdeye.com/heartland-storage-ozark-c-n-23rd-street-163364781037921/review-us?dashboard=1 301!
+/ozark-d                                       https://birdeye.com/heartland-storage-ozark-d-n-2nd-street-163364780343045/review-us?dashboard=1 301!
+/ozark-e                                       https://birdeye.com/heartland-storage-ozark-e-n-21st-street-163364781100759/review-us?dashboard=1 301!
+/ozark-f                                       https://birdeye.com/heartland-storage-ozark-f-e-south-street-163364779654447/review-us?dashboard=1 301!
+/ozark-g                                       https://birdeye.com/heartland-storage-ozark-g-n-10th-street-163364780842417/review-us?dashboard=1 301!
+/ozark-h                                       https://birdeye.com/heartland-storage-ozark-h-w-clay-street-163364779781444/review-us?dashboard=1 301!
+
+/fruita                                        https://birdeye.com/heartland-storage-fruita-168331780296938/review-us?dashboard=1 301!
+/hobart                                        https://birdeye.com/heartland-storage-hobart-163364780165744/review-us?dashboard=1 301!
+/klinger-lake                                  https://birdeye.com/heartland-storage-klinger-lake-168331779035236/review-us?dashboard=1 301!
+/lafayette                                     https://birdeye.com/heartland-storage-lafayette-163364779523229/review-us?dashboard=1 301!
+/lake-geneva                                   https://birdeye.com/heartland-storage-lake-geneva-167449563263445/review-us?dashboard=1 301!
+/lake-mac                                      https://birdeye.com/lake-mac-storage-168331781740332/review-us?dashboard=1 301!
+/lakeview                                      https://birdeye.com/chicago-northside-storage-lakeview-163364779962712/review-us?dashboard=1 301!
+/lynwood                                       https://birdeye.com/heartland-storage-lynwood-163364781576420/review-us?dashboard=1 301!
+/merrillville                                  https://birdeye.com/heartland-storage-merrillville-163364781249266/review-us?dashboard=1 301!
+/michigan-city                                 https://birdeye.com/heartland-storage-michigan-city-163364781293217/review-us?dashboard=1 301!
+/plymouth                                      https://birdeye.com/plymouth-storage-163364780374930/review-us?dashboard=1 301!
+/rochester                                     https://birdeye.com/rochester-storage-163364780615373/review-us?dashboard=1 301!
+/sturgis                                       https://birdeye.com/heartland-storage-sturgis-163364780494754/review-us?dashboard=1 301!
+/sturgis-b                                     https://birdeye.com/heartland-storage-sturgis-b-168331791878898/review-us?dashboard=1 301!
+/warsaw                                        https://birdeye.com/heartland-storage-warsaw-167338470236109/review-us?dashboard=1 301!
+
+
+
+# RV
+/big-rig                                       https://birdeye.com/big-rig-rv-park-campground-168252820277524/review-us?dashboard=1 301!
+/deep-lake                                     https://birdeye.com/deep-lake-campground-168252817293153/review-us?dashboard=1 301!
+/eleanor-oaks                                  https://birdeye.com/eleanor-oaks-rv-park-168252813529755/review-us?dashboard=1 301!
+/gcr                                           https://birdeye.com/glenwood-canyon-resort-168252809936323/review-us?dashboard=1 301!
+/grand-island                                  https://birdeye.com/grand-island-koa-journey-168252822246359/review-us?dashboard=1 301!
+/lake-mason                                    https://birdeye.com/lake-mason-campground-168252824013920/review-us?dashboard=1 301!
+/monument                                      https://birdeye.com/monument-rv-resort-168252818725478/review-us?dashboard=1 301!
+/stagecoach                                    https://birdeye.com/branson-stagecoach-campground-163364781505851/review-us?dashboard=1 301!
+
+
